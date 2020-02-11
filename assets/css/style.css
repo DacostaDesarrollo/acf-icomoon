@@ -14,39 +14,39 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook::before {
+.icon-facebook:before {
   content: '\f09a';
 }
 
-.icon-twitter::before {
+.icon-twitter:before {
   content: '\f099';
 }
 
-.icon-instagram::before {
+.icon-instagram:before {
   content: '\f16d';
 }
 
-.icon-google-plus::before {
+.icon-google-plus:before {
   content: '\f0d5';
 }
 
-.icon-linkedin::before {
+.icon-linkedin:before {
   content: '\f0e1';
 }
 
-.icon-youtube::before {
+.icon-youtube:before {
   content: '\f167';
 }
 
-.icon-snapchat::before {
+.icon-snapchat:before {
   content: '\f2ac';
 }
 
-.icon-youtube-play::before {
+.icon-youtube-play:before {
   content: '\f16a';
 }
 
-.icon-pinterest::before {
+.icon-pinterest:before {
   content: '\f231';
 }
 
